@@ -11,4 +11,4 @@ This website has a database using express js for note titles and descriptions, a
 
 ## Usage
 
-Just download do npm i run the server 
+Just open un the link and give it a try! https://my-note-taker1.herokuapp.com/
